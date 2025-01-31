@@ -4,7 +4,7 @@
   "description": "Describe your Safe App here",
   "icons": [
     {
-      "src": "logo.svg",
+      "src": "logo.svg", 
       "sizes": "any",
       "type": "image/svg+xml"
     },
