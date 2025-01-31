@@ -7,7 +7,7 @@ export interface ProviderRpcError extends Error {
 }
 
 export interface ProviderMessage {
-  type: string;
+  type: string; 
   data: unknown;
 }
 
