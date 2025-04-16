@@ -3,10 +3,10 @@ name:VersoriumX Security and Cloning Defense
 on:
   push:
     branches:
-      - main
+      - VersoriumX-JK-X
   pull_request:
     branches:
-      - main
+      - VersoriumX-JK-X
 
 jobs:
   security:
