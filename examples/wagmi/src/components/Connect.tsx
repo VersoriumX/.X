@@ -15,7 +15,7 @@ export function Connect() {
   const { isConnecting, connector: activeConnector } = useAccount();
   const { disconnect } = useDisconnect();
   const { data: txGasEstimate } = useEstimateGas({
-    to: '0x000000000000000000000000000000000000beef',
+    to: '0x0000000000000000000000000000000000001101',
     value: BigInt('0'),
   });
 
